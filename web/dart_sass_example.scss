@@ -1,0 +1,16 @@
+$font-family:'Open Sans', sans-serif;
+$gray-color: #333;
+$light-blue-color: #ADD8E6;
+
+body {
+  background-color: $light-blue-color;
+  font-family: $font-family;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin: 15px;
+}
+
+h1, p {
+  color: $gray-color;
+}
